@@ -17,7 +17,6 @@
 // Sketch uses 1076362 bytes (82%) of program storage space. Maximum is 1310720 bytes. // 1.2 Mb for OTA and 1.2 Mb for application program and 1.5 Mb for SPIFFS
 // Global variables use 42256 bytes (12%) of dynamic memory, leaving 285424 bytes for local variables. Maximum is 327680 bytes.
 // Working :  ESP32 core for arduino v1.0.4
--
 */
 
 #include <Arduino.h>           // For coding in platformIO using arduino framework, we should include Arduino.h
