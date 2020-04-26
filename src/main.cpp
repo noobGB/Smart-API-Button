@@ -13,10 +13,11 @@
 * Internet connection disconnection getting handled automatically, it pings google.com every 30 seconds.
 * It uses a root ssl certificate from the target server, it is hardcoded. please change it accordingly when connecting to different target.
 * http://maker.ifttt.com/trigger/google_doc_update/with/key/REDACTED_IFTTT_KEY : This will update google doc named [api_call_update] associated with gaurav.gbaba@gmail.com with timestamp of API call 
-
+* 26-04-2020 : added this project to gihub and started tracking file version using git
 // Sketch uses 1076362 bytes (82%) of program storage space. Maximum is 1310720 bytes. // 1.2 Mb for OTA and 1.2 Mb for application program and 1.5 Mb for SPIFFS
 // Global variables use 42256 bytes (12%) of dynamic memory, leaving 285424 bytes for local variables. Maximum is 327680 bytes.
 // Working :  ESP32 core for arduino v1.0.4
+-
 */
 
 #include <Arduino.h>           // For coding in platformIO using arduino framework, we should include Arduino.h
